@@ -64,7 +64,7 @@ $(function() {
   // --------------------------------------------- //
   // KBW-Countdown Start
   // --------------------------------------------- //
-  $('#countdown').countdown({until: $.countdown.UTCDate(+10, 2022, 2, 7), format: 'D'});
+  $('#countdown').countdown({since: $.countdown.UTCDate(+8, 1996, 7, 7), format: 'D'});
   // --------------------------------------------- //
   // KBW-Countdown End
   // --------------------------------------------- //
@@ -74,7 +74,7 @@ $(function() {
   // --------------------------------------------- //
   $('.notify-form').ajaxChimp({
     callback: mailchimpCallback,
-    url: 'https://besaba.us10.list-manage.com/subscribe/post?u=e8d650c0df90e716c22ae4778&amp;id=cda9d4d43c'
+    url: 'https://github.us21.list-manage.com/subscribe/post?u=537b663a778f2b6004d7e0e14&amp;id=ab84b83105&amp;f_id=007c5ce1f0'
   });
 
   function mailchimpCallback(resp) {

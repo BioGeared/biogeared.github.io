@@ -43,7 +43,7 @@
 /* Template Backgrounds Start */
 /* ------------------------------------------------*/
 .media-1 {
-  background-image: url("img/BG.jpg");
+  background-image: url("../img/BG.jpg");
 }
 
 .media-2 {
@@ -51,7 +51,7 @@
 }
 
 .media-3 {
-  background-image: url("http://via.placeholder.com/900x1200");
+  background-image: url("../img/edited47.jpg");/*900 x1200*/
 }
 
 .media-4 {
@@ -59,7 +59,7 @@
 }
 
 .media-5 {
-  background-image: url("http://via.placeholder.com/900x1200");
+  background-image: url('../img/IMG_3569.JPG');
 }
 
 .media-6 {
@@ -83,7 +83,7 @@
 }
 
 .static-bg-1 {
-  background-image: url("http://via.placeholder.com/900x1200");
+  background-image: url("../img/edited47.jpg");/**/
 }
 
 .static-bg-2 {
@@ -95,7 +95,7 @@
 }
 
 .static-bg-4 {
-  background-image: url("http://via.placeholder.com/900x1200");
+  background-image: url("../img/edited47.jpg");
 }
 
 .static-bg-5 {
@@ -103,43 +103,43 @@
 }
 
 .feature-1 {
-  background-image: url("http://via.placeholder.com/1200x900");
+  background-image: url("../img/wego1.png");/*1200x900*/
 }
 
 .feature-2 {
-  background-image: url("http://via.placeholder.com/1200x900");
+  background-image: url("../img/ntu.png");/*1200x900*/
 }
 
 .feature-3 {
-  background-image: url("http://via.placeholder.com/1200x900");
+  background-image: url("../img/nus.png");/*1200x900*/
 }
 
 .feature-4 {
-  background-image: url("http://via.placeholder.com/1200x900");
+  background-image: url("../img/roplus.png");/*1200x900*/
 }
 
 .feature-dark-1 {
-  background-image: url("http://via.placeholder.com/1200x900");
+  background-image: url("http://via.placeholder.com/1200x900");/*1200x900*/
 }
 
 .feature-dark-2 {
-  background-image: url("http://via.placeholder.com/1200x900");
+  background-image: url("http://via.placeholder.com/1200x900");/*1200x900*/
 }
 
 .feature-dark-3 {
-  background-image: url("http://via.placeholder.com/1200x900");
+  background-image: url("http://via.placeholder.com/1200x900");/*1200x900*/
 }
 
 .feature-dark-4 {
-  background-image: url("http://via.placeholder.com/1200x900");
+  background-image: url("http://via.placeholder.com/1200x900");/*1200x900*/
 }
 
 .blockquote {
-  background-image: url("http://via.placeholder.com/1200x1080");
+  background-image: url("../img/quote.png");/*1200x1080*/
 }
 
 .blockquote-dark {
-  background-image: url("img/BG.jpg");
+  background-image: url("../img/BG.jpg");
 }
 /*1200x1080*/
 
@@ -729,6 +729,7 @@ h4 small {
 .section-title span em {
   font-family: "Libre Baskerville", serif;
   font-weight: 400;
+  font-size: small;
 }
 .section-title p {
   margin: 0;
