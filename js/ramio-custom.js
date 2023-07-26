@@ -64,7 +64,7 @@ $(function() {
   // --------------------------------------------- //
   // KBW-Countdown Start
   // --------------------------------------------- //
-  $('#countdown').countdown({since: $.countdown.UTCDate(+8, 1996, 7, 7), format: 'D'});
+  $('#countdown').countdown({since: $.countdown.UTCDate(+8, 2019, 1, 6), format: 'D'});
   // --------------------------------------------- //
   // KBW-Countdown End
   // --------------------------------------------- //
